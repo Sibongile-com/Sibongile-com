@@ -9,8 +9,8 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sibongile-sithole-b1544863"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.datascienceportfol.io/Sibongilesithole3"><img src="https://img.shields.io/badge/Datascienceportfolio-Connect-red?style=for-the-badge&logo=datascienceportfolio"></a>
-  <a href="mailto:Sibongilesithole3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.datascienceportfol.io/Sibongilesithole3"><img src="https://img.shields.io/badge/Datascienceportfolio-Connect-green?style=for-the-badge&logo=datascienceportfolio"></a>
+  <a href="mailto:Sibongilesithole3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
@@ -21,7 +21,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy learning new skills, reading books, traveling, hiking, mentoring others, etc.. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Sibongile-com.github.io/)
+
       
 ## 🔭 What I'm Currently Working On 
 
@@ -29,7 +29,7 @@ When I'm not working with data, I enjoy learning new skills, reading books, trav
 - **Project B:** Banking Customer Churn Analysis using Excel Power Query, MySql and R
 - **Project C:** Creating an interactive marketing dashboard in Power BI for E-commerce.
 
-## 🌱 Currently Learning 
+## 🏆 Currently Learning 
 
 - SAP Business Analytics.
 - Microsoft Cloud Support.
